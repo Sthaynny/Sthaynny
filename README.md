@@ -10,7 +10,8 @@ Bachelor of Information Technology and Student of Software Engineering at UFERSA
 
 <div>
   <a href="https://github.com/Sthaynny">
-  <img height="170em" src="https://user-images.githubusercontent.com/46109133/134026076-13c15b5b-c699-44ce-8a53-f9f168c96f3c.png"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/46109133/134026076-13c15b5b-c699-44ce-8a53-f9f168c96f3c.png"/>
+  <br/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sthaynny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sthaynny&layout=compact&langs_count=7&theme=dark"/>
 </div>

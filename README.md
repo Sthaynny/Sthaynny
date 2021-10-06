@@ -6,7 +6,8 @@ Bacharel em Tecnologia da Informação e Aluno de  Engenharia de Software na UFE
 
 Bachelor of Information Technology and Student of Software Engineering at UFERSA, Pau dos Ferros - RN. Currently, researcher at the Research Group for Critical Safety Systems (GPSICS), in which he develops research related to health, safety and inclusion. In addition, I work as a member of the Training Champions project (2019-2020), with the purpose of training students to participate in the Olympics and / or programming marathons. I also participate in programming Marathons promoted by the Brazilian Computer Society (SBC), in which I gained experience in quick problem solving and teamwork. He has interests in mobile development, web and agile methods, and I like to share my knowledge whenever possible with my co-workers.
  
- <br> <br> [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RafaAbranttes)](https://github.com/RafaAbranttes) <ls> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-a-186b681a1/)](https://www.linkedin.com/in/rafael-a-186b681a1/) <ls> [![Linkedin Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/rafael-a-186b681a1/)](https://gitlab.com/rafaAbranttes)
+ <br> <br> [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Sthaynny/Sthaynny)](https://github.com/RafaAbranttes) 
+ <ls> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-sthaynny/)](https://www.linkedin.com/in/igor-sthaynny/)
 
 <div>
   <a href="https://github.com/Sthaynny">

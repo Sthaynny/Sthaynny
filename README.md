@@ -1,10 +1,18 @@
 ### :octocat: Olá 👋
 
-Bacharel em Tecnologia da Informação e Aluno de Engenharia de Software na UFERSA, campos Pau dos Ferros — RN. Tenho atuação como membro do projeto Treinando Campeões (2019 – 2020), com a finalidade de treinar estudantes para participação em olimpíadas ou maratonas de programação, participando de Maratonas de programação promovidas pela Sociedade Brasileira de Computação (SBC), no qual adquiriu experiência em resolução rápida de problemas e trabalho em equipe. Tenho uma paixão por desenvolvimento mobile com Flutter tenho muita vivência com o mundo ágil e sinto prazer em compartilhar meus conhecimentos e aprender com meus companheiros de trabalho.
+Sou Igor Sthaynny, desenvolvedor mobile sênior com uma forte paixão por criar soluções que realmente fazem a diferença. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos desafiadores, sempre buscando entregar produtos de alta qualidade e que superassem as expectativas dos clientes.
+
+Com experiência em Flutter, Dart e outras tecnologias de ponta, construí aplicativos mobile robustos e escaláveis, otimizados para diferentes plataformas e dispositivos. Minha experiência em projetos de grande porte me proporcionou um conhecimento sólido em arquitetura de software, testes automatizados e processos de desenvolvimento ágil.
+
+Acredito que o sucesso de um projeto está diretamente ligado à capacidade de trabalhar em equipe, se comunicar de forma clara e eficiente e, acima de tudo, entender as necessidades do cliente. Ao longo da minha trajetória, desenvolvi um forte senso de responsabilidade e compromisso com a entrega de resultados com qualidade e agregado com qualidade nos processos da equipe.
 
 ### :octocat: Hi there 👋
 
-Bachelor in Information Technology and Software Engineering Student at UFERSA, Campos Pau dos Ferros — RN. I work as a member of the project Training Champions (2019 – 2020), with the purpose of training students to participate in programming Olympics or marathons, participating in programming marathons promoted by the Brazilian Computer Society (SBC), in which I acquired experience in resolution problem solving and teamwork. I have a passion for mobile development with Flutter, I have a lot of experience with the agile world and I enjoy sharing my knowledge and learning with my co-workers.
+I am Igor Sthaynny, a senior mobile developer with a strong passion for creating solutions that truly make a difference. Throughout my career, I have had the opportunity to work on various challenging projects, always striving to deliver high-quality products that exceed client expectations.
+
+With experience in Flutter, Dart, and other cutting-edge technologies, I have built robust and scalable mobile applications optimized for different platforms and devices. My experience in large-scale projects has given me solid knowledge in software architecture, automated testing, and agile development processes.
+
+I believe that the success of a project is directly linked to the ability to work as a team, communicate clearly and efficiently, and, above all, understand the client’s needs. Throughout my journey, I have developed a strong sense of responsibility and commitment to delivering high-quality results while enhancing team processes with efficiency and excellence.
  
  <br> <br> [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Sthaynny/Sthaynny)](https://github.com/Sthaynny) 
  <ls> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-sthaynny/)](https://www.linkedin.com/in/igor-sthaynny/)
